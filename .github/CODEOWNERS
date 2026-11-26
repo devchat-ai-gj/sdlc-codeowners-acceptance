@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 boob.yang
+# Replace with teams that have write access before installation.
+* @devchat-ai-gj/sdlc0057-maintainers
+/.github/ @devchat-ai-gj/sdlc0057-build-owners
+/.claude/ @devchat-ai-gj/sdlc0057-agent-policy-owners
+/deploy/ @devchat-ai-gj/sdlc0057-release-owners
